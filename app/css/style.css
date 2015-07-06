@@ -1,0 +1,321 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700);
+/* line 11, ../assets/scss/style.scss */
+html {
+  font-size: 62.5%;
+}
+
+/* line 15, ../assets/scss/style.scss */
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  background: #e6e6e6;
+  font: 1.4em 'Open Sans', sans-serif;
+  color: #fff;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+}
+
+/* line 30, ../assets/scss/style.scss */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: normal;
+}
+
+/* line 35, ../assets/scss/style.scss */
+h1 {
+  font-size: 2.0em;
+  line-height: 1.0em;
+  font-style: normal;
+  font-weight: 300;
+}
+
+/* line 42, ../assets/scss/style.scss */
+h2 {
+  font-size: 2.0em;
+  line-height: 1.2em;
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* line 49, ../assets/scss/style.scss */
+h3 {
+  font-size: 1.4em;
+  line-height: 1em;
+  font-weight: 400;
+  margin: 0;
+  padding: 3px 0;
+}
+
+/* line 57, ../assets/scss/style.scss */
+h4 {
+  font-size: 1.5em;
+  line-height: 1em;
+  font-style: normal;
+}
+
+/* line 63, ../assets/scss/style.scss */
+h5 {
+  font-size: 1.3em;
+  line-height: 0.9em;
+  font-style: normal;
+}
+
+/* line 69, ../assets/scss/style.scss */
+h6 {
+  padding: 0;
+  margin: 0;
+  font-size: 1.1em;
+  line-height: 1.2em;
+  font-weight: 600;
+}
+
+/* line 77, ../assets/scss/style.scss */
+ul, li {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+/* line 83, ../assets/scss/style.scss */
+li {
+  padding: 5px 5px 0 5px;
+}
+
+/* line 87, ../assets/scss/style.scss */
+.cabecalho {
+  background: #fff;
+  border-bottom: solid 1px #ddd;
+  width: 100%;
+  padding: 7px 0;
+  color: #807F7F;
+}
+/* line 93, ../assets/scss/style.scss */
+.cabecalho h2 {
+  text-align: center;
+  margin: 0;
+}
+/* line 97, ../assets/scss/style.scss */
+.cabecalho .feito {
+  color: #36b1d4;
+}
+
+/* line 100, ../assets/scss/style.scss */
+.conteudo, .footer {
+  margin-top: 10px;
+  width: 98%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* line 107, ../assets/scss/style.scss */
+.tarefas-desativas, .tarefas-ativas {
+  background: #fff;
+}
+/* line 109, ../assets/scss/style.scss */
+.tarefas-desativas li, .tarefas-ativas li {
+  padding: 0px 5px;
+}
+
+/* line 115, ../assets/scss/style.scss */
+.tarefas-desativas li:last-child {
+  padding-bottom: 2px;
+}
+
+/* line 120, ../assets/scss/style.scss */
+.cabecalho-ativas {
+  background: #fff;
+  padding: 5px;
+  color: #515151;
+  margin-bottom: 0px;
+}
+
+/* line 127, ../assets/scss/style.scss */
+.cabecalho-desativas {
+  background: #fff;
+  padding: 5px;
+  color: #515151;
+  margin-bottom: 0px;
+  margin-top: 10px;
+}
+
+/* line 135, ../assets/scss/style.scss */
+.link-nova {
+  padding: 5px 0 5px 5px;
+}
+/* line 137, ../assets/scss/style.scss */
+.link-nova a {
+  font-size: 0.9em;
+}
+
+/* line 142, ../assets/scss/style.scss */
+.form-tarefa {
+  padding: 5px;
+}
+/* line 144, ../assets/scss/style.scss */
+.form-tarefa input {
+  margin: 0 5px 5px 0;
+  float: left;
+  resize: none;
+}
+
+/* line 151, ../assets/scss/style.scss */
+.descricao {
+  position: relative;
+  float: left;
+  width: 80%;
+  padding: 5px;
+  margin: 2px 0;
+}
+
+/* line 158, ../assets/scss/style.scss */
+.acao {
+  background: #EBEAEA;
+  position: relative;
+  float: left;
+  width: 19%;
+  margin-top: 2px;
+  margin-left: 0.2%;
+  text-align: center;
+  padding: 5px 0;
+}
+
+/* line 169, ../assets/scss/style.scss */
+.btn-ativas, .btn-prioridade, .btn-excluir {
+  width: 50%;
+  float: left;
+  cursor: pointer;
+}
+
+/* line 175, ../assets/scss/style.scss */
+.btn-ativas {
+  border-right: solid 1px #fff;
+}
+/* line 177, ../assets/scss/style.scss */
+.btn-ativas i {
+  color: #4cd898;
+}
+
+/* line 181, ../assets/scss/style.scss */
+.btn-excluir i {
+  color: #fd8f8f;
+}
+
+/* line 185, ../assets/scss/style.scss */
+.prioridade-0 {
+  background: #36b1d4;
+}
+
+/* line 186, ../assets/scss/style.scss */
+.prioridade-1 {
+  background: #fa9292;
+}
+
+/* line 187, ../assets/scss/style.scss */
+.prioridade-2 {
+  background: #ffa726;
+}
+
+/* line 188, ../assets/scss/style.scss */
+.prioridade-3 {
+  background: #2bc67f;
+}
+
+/* line 190, ../assets/scss/style.scss */
+.btn-prioridade i {
+  color: #795548;
+}
+
+/* line 193, ../assets/scss/style.scss */
+.limpar {
+  clear: both;
+}
+
+/* ==========================================================================
+   Tela mínima 350px largura
+   ========================================================================== */
+@media screen and (min-width: 350px) {
+  /* line 201, ../assets/scss/style.scss */
+  .descricao {
+    width: 85%;
+  }
+
+  /* line 204, ../assets/scss/style.scss */
+  .acao {
+    width: 14%;
+    margin-top: 2px;
+    margin-left: 0.3%;
+  }
+}
+/* ==========================================================================
+   Tela mínima 550px largura
+   ========================================================================== */
+@media screen and (min-width: 550px) {
+  /* line 216, ../assets/scss/style.scss */
+  .descricao {
+    width: 90%;
+  }
+
+  /* line 219, ../assets/scss/style.scss */
+  .acao {
+    width: 9.5%;
+    margin-top: 2px;
+    margin-left: 0.2%;
+  }
+}
+/* ==========================================================================
+   Tela mínima 850px largura
+   ======================================================================== */
+@media screen and (min-width: 850px) {
+  /* line 231, ../assets/scss/style.scss */
+  .descricao {
+    width: 93%;
+  }
+
+  /* line 234, ../assets/scss/style.scss */
+  .acao {
+    width: 6.5%;
+    margin-top: 2px;
+    margin-left: 0.2%;
+  }
+}
+/* ==========================================================================
+   Tela mínima 1300px largura
+   ========================================================================== */
+@media screen and (min-width: 1300px) {
+  /* line 246, ../assets/scss/style.scss */
+  .conteudo, .footer {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  /* line 252, ../assets/scss/style.scss */
+  .descricao {
+    width: 94%;
+  }
+
+  /* line 255, ../assets/scss/style.scss */
+  .acao {
+    width: 5.8%;
+    margin-top: 2px;
+    margin-left: 0.2%;
+  }
+}
+/* line 262, ../assets/scss/style.scss */
+.footer {
+  bottom: 0;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+  border-top: solid 1px #D1D0D0;
+}
+/* line 268, ../assets/scss/style.scss */
+.footer li {
+  display: inline-block;
+  color: #515151;
+}

@@ -1,0 +1,272 @@
+$verde: #2BC67F;
+$laranja: #ffa726;
+$vermelho: #FA9292;
+$azul:#36B1D4;
+$amarelo: #F0DA15;
+$fundo-body: #E6E6E6;
+$cor-fonte:#515151;
+
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700);
+
+html{
+  font-size: 62.5%;
+}
+
+body {
+  margin:0;
+  padding:0;
+  height: 100%;
+  width: 100%;
+  background: $fundo-body;
+  font: 1.4em 'Open Sans', sans-serif;
+  color: #fff;
+  font-weight: normal;
+  font-style: normal;
+  -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+   box-sizing: content-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 2.0em;
+  line-height: 1.0em;
+  font-style: normal;
+  font-weight: 300;
+}
+
+h2 {
+  font-size: 2.0em;
+  line-height: 1.2em;
+  font-style: normal;
+  font-weight: 400;
+}
+
+h3 {
+  font-size: 1.4em;
+  line-height: 1em;
+  font-weight: 400;
+  margin:0;
+  padding:3px 0;
+}
+
+h4{
+  font-size: 1.5em;
+  line-height: 1em;
+  font-style: normal;
+}
+
+ h5{
+  font-size: 1.3em;
+  line-height: 0.9em;
+  font-style: normal;
+}
+
+h6 {
+  padding:0;
+  margin:0;
+  font-size: 1.1em;
+  line-height: 1.2em;
+  font-weight:600;
+}
+
+ul, li{
+  padding:0;
+  margin:0;
+  list-style: none;
+}
+
+li{
+  padding:5px 5px 0 5px;
+}
+
+.cabecalho{
+  background:#fff;
+  border-bottom:solid 1px #ddd;
+  width: 100%;
+  padding:7px 0;
+  color:#807F7F;
+  h2{
+    text-align: center;
+    margin:0;
+  }
+  .feito{ color:$azul}
+}
+
+.conteudo,.footer{
+  margin-top:10px;
+  width: 98%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.tarefas-desativas,.tarefas-ativas{
+  background:#fff;
+  li{
+    padding:0px 5px;
+  }
+}
+
+.tarefas-desativas{
+  li:last-child{
+    padding-bottom:2px;
+  }
+}
+
+.cabecalho-ativas{
+  background:#fff;
+  padding: 5px;
+  color:$cor-fonte;
+  margin-bottom: 0px;
+}
+
+.cabecalho-desativas{
+  background:#fff;
+  padding: 5px;
+  color:$cor-fonte;
+  margin-bottom: 0px;
+  margin-top: 10px;
+}
+
+.link-nova{
+  padding:5px 0 5px 5px;
+  a{
+    font-size: 0.9em;
+  }
+}
+
+.form-tarefa{
+  padding:5px;
+  input{
+    margin:0 5px 5px 0;
+    float:left;
+    resize: none;
+  }
+}
+
+.descricao{
+  position: relative;
+  float: left;
+  width: 80%;
+  padding:5px;
+  margin:2px 0;
+}
+.acao{
+  background:#EBEAEA;
+  position: relative;
+  float: left;
+  width: 19%;
+  margin-top: 2px;
+  margin-left:0.2%;
+  text-align:center;
+  padding:5px 0;
+}
+
+.btn-ativas, .btn-prioridade, .btn-excluir{
+  width: 50%;
+  float: left;
+  cursor: pointer;
+}
+
+.btn-ativas{
+  border-right:solid 1px #fff;
+  i{
+    color: lighten($verde, 10%);
+  }
+}
+.btn-excluir i{
+  color: saturate($vermelho, 5%);
+}
+
+.prioridade-0 { background: $azul; }
+.prioridade-1 { background: $vermelho; }
+.prioridade-2 { background: $laranja; }
+.prioridade-3 { background: $verde; }
+
+.btn-prioridade i{
+  color:  #795548;
+}
+.limpar{ clear: both; }
+
+
+/* ==========================================================================
+   Tela mínima 350px largura
+   ========================================================================== */
+
+@media screen and (min-width: 350px) {
+  .descricao{
+    width: 85%;
+  }
+  .acao{
+    width: 14%;
+    margin-top: 2px;
+    margin-left:0.3%;
+  }
+}
+
+/* ==========================================================================
+   Tela mínima 550px largura
+   ========================================================================== */
+
+@media screen and (min-width: 550px) {
+  .descricao{
+    width: 90%;
+  }
+  .acao{
+    width: 9.5%;
+    margin-top: 2px;
+    margin-left:0.2%;
+  }
+}
+
+/* ==========================================================================
+   Tela mínima 850px largura
+   ======================================================================== */
+
+@media screen and (min-width: 850px) {
+  .descricao{
+    width: 93%;
+  }
+  .acao{
+    width: 6.5%;
+    margin-top: 2px;
+    margin-left:0.2%;
+  }
+}
+
+/* ==========================================================================
+   Tela mínima 1300px largura
+   ========================================================================== */
+
+@media screen and (min-width: 1300px) {
+  .conteudo,.footer{
+    width: 60%;
+    margin-left:auto;
+    margin-right:auto;
+  }
+
+  .descricao{
+    width: 94%;
+  }
+  .acao{
+    width: 5.8%;
+    margin-top: 2px;
+    margin-left:0.2%;
+  }
+}
+
+.footer{
+  bottom: 0;
+  text-align: center;
+  padding: 10px;
+  margin-top: 20px;
+  border-top: solid 1px #D1D0D0;
+  li{
+    display: inline-block;
+    color: $cor-fonte;
+  }
+}

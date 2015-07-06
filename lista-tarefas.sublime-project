@@ -1,0 +1,22 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				".*",
+				"*.log"
+			],
+			"folder_exclude_patterns":
+			[
+				"tmp",
+				"log",
+				".*"
+			],
+			"path": "fazer-feito"
+		},
+		{
+			"path": "app"
+		}
+	]
+}

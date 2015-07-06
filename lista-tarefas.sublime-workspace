@@ -1,0 +1,947 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cons",
+				"console"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"cor",
+				"cor-fonte"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"c",
+				"conex"
+			],
+			[
+				"ver",
+				"vermelho"
+			],
+			[
+				"borde",
+				"border-left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"busc",
+				"buscarTarefasAtivas"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"objTare",
+				"ObjTarefactr"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"nome",
+				"setNome"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"j",
+				"json_encode"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"ng-c",
+				"ng-click	AngularJS"
+			],
+			[
+				"bore",
+				"border-bottom"
+			],
+			[
+				"radu",
+				"border-radius"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"ima",
+				"image-mobile"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"cin",
+				"cinza-2"
+			],
+			[
+				"inle",
+				"inline-table"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"cinza",
+				"cinza-1"
+			],
+			[
+				"font-clo",
+				"font-color-base"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"az",
+				"azul-base"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"wp_he",
+				"wp_headers"
+			],
+			[
+				"nav_me",
+				"has_nav_menu"
+			],
+			[
+				"get_templa",
+				"get_template_part"
+			],
+			[
+				"get_he",
+				"get_header"
+			],
+			[
+				"get_tem",
+				"get_template_directory_uri"
+			],
+			[
+				"style",
+				"stylesheet_uri"
+			],
+			[
+				"blog",
+				"bloginfo"
+			],
+			[
+				"font-color",
+				"font-color-negrito"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"line-he",
+				"line-height"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"la",
+				"largura-blog"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"com",
+				"com-section	Idiomatic CSS - Section Comment Block"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/js/my-angular.js",
+			"settings":
+			{
+				"buffer_size": 3402,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/assets/scss/style.scss",
+			"settings":
+			{
+				"buffer_size": 4396,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/index.php",
+			"settings":
+			{
+				"buffer_size": 3413,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Model/Conexao.php",
+			"settings":
+			{
+				"buffer_size": 1154,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Model/pojo/Tarefa.php",
+			"settings":
+			{
+				"buffer_size": 428,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Controller/TarefaController.php",
+			"settings":
+			{
+				"buffer_size": 1991,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Model/dao/TarefaDao.php",
+			"settings":
+			{
+				"buffer_size": 2355,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/DEV/netbeans-projetos/ConnectClient/connectclient/connectClient/src/main/webapp/assets/js/app.js",
+			"settings":
+			{
+				"buffer_size": 15850,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/impl/fazer-feito/app"
+	],
+	"file_history":
+	[
+		"/E/DEV/netbeans-projetos/ConnectClient/connectclient/connectClient/src/main/webapp/jsp/template/template.jsp",
+		"/C/xampp/htdocs/impl/fazer-feito/lista-tarefas.sublime-project",
+		"/C/xampp/htdocs/impl/lista-tarefas-antigo/lista-tarefas.sublime-project",
+		"/C/Users/Jeremias/Desktop/fazer-feito/app/assets/scss/style.scss",
+		"/C/Users/Jeremias/Desktop/fazer-feito/app/index.php",
+		"/E/DEV/netbeans-projetos/ConnectClient/connectclient/connectClientPU/src/main/java/com/jjdev/connectclientpu/model/dao/JUsuarioDao.java",
+		"/C/xampp/htdocs/impl/lista-tarefas/app/Controller/TarefasController.php",
+		"/C/xampp/htdocs/impl/lista-tarefas/app/Model/Tarefa.php",
+		"/F/Sansung/Nova pasta/maxintv-site/app/Controller/HomesController.php",
+		"/F/Sansung/Nova pasta/blog/index.php",
+		"/C/Users/Jeremias/Desktop/bootstrap-3.3.5-dist/bootstrap-3.3.5-dist/js/bootstrap.js",
+		"/C/Users/Jeremias/Desktop/bootstrap-3.3.5-dist/bootstrap-3.3.5-dist/js/npm.js",
+		"/E/DEV/netbeans-projetos/ConnectClient/connectclient/connectClient/src/main/webapp/assets/js/app.js",
+		"/C/xampp/htdocs/impl/lista-tarefas/lista-tarefas.sublime-project",
+		"/C/xampp/htdocs/impl/lista-tarefas/.htacess",
+		"/C/xampp/htdocs/impl/codigo-corretora/app/index.html",
+		"/C/xampp/htdocs/impl/lista-tarefas/app/View/index.php",
+		"/C/xampp/htdocs/impl/lista-tarefas/app/Conexao.php",
+		"/C/xampp/htdocs/impl/lista-tarefas/app/js/main.js",
+		"/C/xampp/htdocs/impl/lista-tarefas/app/Index.php",
+		"/C/xampp/htdocs/impl/lista-tarefas/app/Model/Conexao.php",
+		"/E/Drive/DEV/Código corretora/pdo/Conexao.php",
+		"/C/xampp/htdocs/impl/drup/drup.sublime-project",
+		"/C/xampp/htdocs/impl/drup.sublime-project",
+		"/C/xampp/htdocs/impl/blog/app/wp-content/themes/blog/sobre.php",
+		"/C/xampp/htdocs/impl/blog/app/wp-content/themes/blog/footer.php",
+		"/C/xampp/htdocs/impl/blog/app/wp-content/themes/blog/style.css",
+		"/C/xampp/htdocs/impl/blog/app/wp-content/themes/blog/assets/sass/style.scss",
+		"/C/xampp/htdocs/impl/blog/app/wp-content/themes/blog/functions.php",
+		"/C/xampp/htdocs/impl/blog/app/wp-content/themes/blog/index.php",
+		"/C/Users/Jeremias/Desktop/apikiwpcursos201502/functions.php",
+		"/C/Users/Jeremias/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/impl/blog/blog.sublime-project",
+		"/C/xampp/htdocs/impl/blog/app/wp-includes/update.php",
+		"/C/xampp/htdocs/impl/blog/app/wp-config.php",
+		"/C/Users/Jeremias/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/netbeans-projetos/ConnectClient/connectclient/others/html/redefinicao_de_senha.html",
+		"/C/xampp/htdocs/impl/codigo-corretora-ext/assets/scss/style.scss",
+		"/C/xampp/htdocs/impl/codigo-corretora-ext/index.html",
+		"/E/netbeans-projetos/ConnectClient/connectclient/others/html/Email orçamento/orcamento.html",
+		"/C/Users/Jeremias/Desktop/index.html",
+		"/E/Drive/DEV/Código corretora/Orcamento-email/orcamento.html",
+		"/C/Users/Jeremias/Desktop/css/orcamento-ext.jsp",
+		"/C/xampp/htdocs/impl/codigo-corretora-ext/css/style.css",
+		"/E/Drive/DEV/pdo/Conexao.php",
+		"/E/Drive/DEV/pdo/Index.php",
+		"/C/xampp/htdocs/impl/blog/wp-content/themes/blog/assets/sass/style.scss",
+		"/C/xampp/htdocs/impl/blog/wp-content/themes/blog/sobre.php",
+		"/C/xampp/htdocs/impl/apiki/wp-content/themes/apiki/footer.php",
+		"/C/xampp/htdocs/impl/apiki/wp-content/themes/apiki/header.php",
+		"/E/Apiki/html-projecttwo/html-projecttwo/index.html",
+		"/E/netbeans-projetos/dashgumfree/Theme/assets/js/common-scripts.js",
+		"/C/Users/Jeremias/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/E/netbeans-projetos/dashgumfree/Theme/index.html",
+		"/C/xampp/htdocs/impl/apiki/wp-content/themes/apiki/style.css",
+		"/C/xampp/htdocs/impl/apiki/wp-content/themes/apiki/sidebar.php",
+		"/C/xampp/htdocs/impl/apiki/wp-content/themes/apiki/template-parts/template-part-featured.php",
+		"/C/xampp/htdocs/impl/apiki/wp-content/themes/apiki/template-parts/template-part-list-products.php",
+		"/C/xampp/htdocs/impl/apiki/wp-content/themes/apiki/template-parts/template-part-box-blog.php",
+		"/C/xampp/htdocs/impl/apiki/wp-content/themes/apiki/functions.php",
+		"/C/xampp/htdocs/impl/apiki/wp-content/themes/apiki/index.php",
+		"/C/xampp/htdocs/impl/apiki/wp-content/themes/apiki/template-parts/slider.php",
+		"/C/xampp/htdocs/impl/apiki/wp-content/themes/apiki/assets/header.php",
+		"/E/Drive/DEV/codigo-corretora-ext/index.html",
+		"/E/Drive/DEV/codigo-corretora-ext/assets/scss/style.scss",
+		"/E/Drive/DEV/codigo-corretora-ext/css/style.css",
+		"/E/Drive/DEV/codigo-corretora-ext/assets/bootstrap-3.3.4/css/bootstrap.css",
+		"/E/Dev/start/css/style.css",
+		"/C/xampp/htdocs/impl/apiki/index.php",
+		"/C/Users/Jeremias/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/E/Apiki/html-projecttwo/html-projecttwo/style.scss",
+		"/C/Users/Jeremias/AppData/Local/Temp/Temp1_jquery-ui-1.11.4.custom.zip/jquery-ui-1.11.4.custom/index.html",
+		"/C/xampp/htdocs/impl/blog/wp-content/themes/blog/footer.php",
+		"/C/Users/Jeremias/AppData/Local/Temp/Temp1_html-projecttwo.zip/html-projecttwo/style.css",
+		"/C/Users/Jeremias/Desktop/jquery-ui-1.11.4.custom/jquery-ui-1.11.4.custom/index.html",
+		"/C/xampp/htdocs/impl/blog/wp-content/themes/blog/style.css",
+		"/E/Dev/start/index.html",
+		"/E/Dev/start/js/my-angular.js",
+		"/E/Dev/start/js/main.js",
+		"/E/netbeans-projetos/ConnectClient/orcamento-externo/js/my-controller.js",
+		"/E/netbeans-projetos/ConnectClient/orcamento-externo/css/style.css",
+		"/E/netbeans-projetos/ConnectClient/orcamento-externo/index.html",
+		"/E/netbeans-projetos/ConnectClient/connectclient/connectClient/src/main/webapp/jsp/home/home.jsp",
+		"/E/netbeans-projetos/ConnectClient/connectclient/connectClient/src/main/webapp/jsp/orcamento/orcamento-ext.jsp",
+		"/C/Users/Jeremias/Desktop/eclipse-php-luna-SR2-win32-x86_64/eclipse/readme/readme_eclipse.html",
+		"/E/netbeans-projetos/ConnectClient/connectclient/connectClient/src/main/webapp/jsp/seguradora/seguradora.jsp",
+		"/E/netbeans-projetos/ConnectClient/connectclient/connectClient/src/main/webapp/jsp/usuario/usuario.jsp",
+		"/E/netbeans-projetos/ConnectClient/connectclient/connectClient/src/main/webapp/jsp/cobertura/cobertura.jsp",
+		"/E/netbeans-projetos/ConnectClient/connectclient/connectClient/src/main/webapp/jsp/veiculo/veiculo.jsp",
+		"/E/netbeans-projetos/ConnectClient/connectclient/connectClient/src/main/webapp/jsp/clausula/clausula.jsp",
+		"/C/xampp/htdocs/impl/blog/wp-content/themes/blog/assets/google-code-prettify/prettify.css",
+		"/C/xampp/htdocs/impl/blog/wp-content/themes/blog/assets/google-code-prettify/prettify.js",
+		"/C/xampp/htdocs/impl/blog/wp-content/themes/blog/header.php",
+		"/C/xampp/htdocs/impl/blog/wp-content/themes/blog/index.php",
+		"/C/xampp/htdocs/impl/blog/wp-content/themes/blog/functions.php",
+		"/C/xampp/htdocs/impl/blog/wp-content/themes/blog/sobre-templte-limpo.php",
+		"/C/xampp/htdocs/impl/blog/wp-content/themes/blog/single.php",
+		"/C/Users/Jeremias/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/impl/blog/wp-content/themes/blog/images/bars.svg",
+		"/C/Users/Jeremias/Desktop/tableless-v3-2015/tableless-v3-2015/assets/css/_internal.sass",
+		"/C/xampp/htdocs/impl/blog/wp-content/themes/blog/assets/sass/style.sass",
+		"/C/Users/Jeremias/Desktop/tableless-v3-2015/tableless-v3-2015/.sass-cache/93318a1b4971262512f011fc86c95a0581769b7c/_internal.sassc",
+		"/C/xampp/htdocs/impl/blog/wp-content/themes/blog/reset.css",
+		"/C/Users/Jeremias/Desktop/tableless-v3-2015/tableless-v3-2015/index.html",
+		"/C/xampp/htdocs/impl/blog/wp-content/themes/blog/sidebar.php",
+		"/C/xampp/htdocs/impl/blog/wp-content/themes/blog/sobre2.php",
+		"/C/xampp/htdocs/impl/blog/wp-content/themes/blog/myFunctions.php",
+		"/E/netbeans-projetos/ConnectClient/connectclient/others/dashgumfree/Theme/index.html",
+		"/C/Users/Jeremias/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/impl/blog/wp-admin/install.php",
+		"/C/xampp/htdocs/impl/blog/index.php",
+		"/C/xampp/php/php.ini"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cons",
+			";\n",
+			"feito",
+			";\n",
+			"background",
+			"tarefa",
+			"Tarefa",
+			"tarefa",
+			"Tarefa",
+			"tarefa",
+			"Tarefa",
+			"tarefa",
+			"Tarefa",
+			"tarefa",
+			"nome",
+			"info",
+			"nivel",
+			"box",
+			"body",
+			"  }",
+			"main",
+			"img-responsive",
+			"responsive",
+			"thumbnail",
+			"blog",
+			"high",
+			"hight",
+			"63A0DD",
+			"10px",
+			"#b23e35",
+			"#eb675e",
+			"#e67a73",
+			"#e4685d",
+			"new",
+			"fir",
+			"fi",
+			"firs",
+			"$padding-h",
+			";\n",
+			"tabs-c",
+			"bloginfo",
+			"function bloginfo",
+			"function blog_info",
+			"=<?",
+			"assets/",
+			"media",
+			"min",
+			"conte",
+			"con",
+			"conta",
+			";\n",
+			"col-xs-3 col-sm-3 col-md-3 col-lg-3 tab-seguradora",
+			"border",
+			"95",
+			"table",
+			"&nbsp;",
+			"170",
+			"alem",
+			"col-md-2",
+			";\n",
+			"fa-bars",
+			"side",
+			"\n							",
+			"\">",
+			"conta",
+			"30",
+			"60",
+			"time"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tarefa",
+			"prioridade",
+			"E8850C",
+			"#63A0DD",
+			"$ajuste-horizontal",
+			"<?php echo get_template_directory_uri();?>/assets/",
+			"li",
+			"",
+			"col-xs-2 col-sm-2 col-md-2",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/js/my-angular.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2135,
+								2135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 798.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/scss/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2635,
+								2635
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2785.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3350,
+								3350
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 798.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Model/Conexao.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1148,
+								1148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/Model/pojo/Tarefa.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 428,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/Controller/TarefaController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1991,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								745,
+								745
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 570.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/Model/dao/TarefaDao.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								845,
+								845
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 1140.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/E/DEV/netbeans-projetos/ConnectClient/connectclient/connectClient/src/main/webapp/assets/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15850,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6889,
+								6650
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3534.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lista-tarefas.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\impl\\codigo-corretora\\orcamento-exteno.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
