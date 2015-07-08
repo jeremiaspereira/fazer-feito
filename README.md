@@ -3,9 +3,9 @@ Uma pequena aplicação de lista de tarefas em PHP e AngularJs, feita com o intu
 
 As requisições ao banco são feitas via Ajax, usando o AngularJs.
 
-Foi usado o SASS para facilitar a criação de css, uso o ScoutApp que faz a conversão em tempo real.
+Foi usado o SASS para facilitar a criação de CSS, uso o ScoutApp que faz a conversão em tempo real.
 
-Algumas vezes a página não atualiza quando criada uma nova tarefa, creio ser algo relativo a função:  $scope.$apply();
+Algumas vezes a página não atualiza quando  uma nova tarefa é criada, creio ser algo relativo a função:  $scope.$apply();
 
 A aplicação esta bem responsiva.
 
