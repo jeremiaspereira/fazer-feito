@@ -1,4 +1,4 @@
-# fazer-feito
+
 Uma pequena aplicação de lista de tarefas em PHP e AngularJs, feita com o intuito de estudar.
 
 As requisições ao banco são feitas via Ajax, usando o AngularJs.
@@ -10,17 +10,3 @@ Algumas vezes a página não atualiza quando  uma nova tarefa é criada, creio s
 A aplicação esta bem responsiva.
 
 Ainda vou melhorar...
-
-============================================
-
-A small application task list in PHP and angularjs made in order to study.
-
-Requests to the database are made via Ajax, using angularjs.
-
-SASS was used to facilitate the creation of CSS, use the ScoutApp that converts in real time.
-
-Sometimes the page is not updated when creating a new task, I believe it is something about the function: $scope apply ();.
-
-The application is well responsive.
-
-Although I will improve ...
